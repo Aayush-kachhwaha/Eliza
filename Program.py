@@ -1,3 +1,4 @@
-import Doctor
 
-print(Doctor)
+from DoctorFile import  Doctor
+
+print(Doctor.intro())
